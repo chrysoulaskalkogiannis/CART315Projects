@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScivoloCharacterController", "ScivoloCharacterController.csproj", "{4FCB4239-0DCE-0164-F657-CE408D27D875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{32D629D9-6952-AA08-B092-65ED603C3852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCB4239-0DCE-0164-F657-CE408D27D875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCB4239-0DCE-0164-F657-CE408D27D875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCB4239-0DCE-0164-F657-CE408D27D875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCB4239-0DCE-0164-F657-CE408D27D875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D629D9-6952-AA08-B092-65ED603C3852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D629D9-6952-AA08-B092-65ED603C3852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D629D9-6952-AA08-B092-65ED603C3852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D629D9-6952-AA08-B092-65ED603C3852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
