@@ -5,14 +5,14 @@ using UnityEngine;
 public class pickup : MonoBehaviour
 {
 
-  public string pickUpTag;
+  public string tag;
 
 
   private void OnCollisionEnter(Collision collision)
 {
-    if (collision.collider.gameObject.CompareTag(pickUpTag))
+    if (collision.collider.gameObject.tag == "pickup")
     {
-        Debug.Log("gwrggwg");
+
         Destroy(collision.collider.gameObject);
     }
 
